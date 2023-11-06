@@ -17,4 +17,4 @@ Je suis un diplômé en Génie Informatique de l'Académie Internationale Mohamm
 
 N'hésitez pas à me contacter si vous avez des opportunités de stage ou si vous souhaitez discuter de projets intéressants dans les domaines du développement web, de l'apprentissage automatique et de la recherche d'information. Je serais ravi de collaborer et d'apporter ma contribution.
 
-Vous pouvez me contacter via [mon adresse e-mail](ali.bougassaa@etu.univ-st-etienne.fr) ou sur [LinkedIn](https://www.linkedin.com/in/ali-bougassaa).
+Vous pouvez me contacter via mon adresse e-mail: ali.bougassaa@etu.univ-st-etienne.fr ou sur [LinkedIn](https://www.linkedin.com/in/ali-bougassaa).
