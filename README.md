@@ -1,6 +1,4 @@
-<p align="center">
-  <h1> Bienvenue sur mon profil GitHub</h1>
-</p>
+# Bienvenue sur mon profil GitHub
 
 Je suis un diplômé en Génie Informatique de l'Académie Internationale Mohammed 6 de l'Aviation Civile (AIAC) et actuellement étudiant en Master 2 en Systèmes de Données Connectées à l'Université Jean Monnet. Je suis passionné par le développement web et je possède une experience dans les technologies émergentes. Je suis à la recherche d'un stage de 6 mois pour exploiter mes compétences en développement informatique et contribuer à des projets web novateurs.
 
